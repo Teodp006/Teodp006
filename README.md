@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola, me llamo Teo y me gusta programar 👋 
+![https://github.com/Teodp006](https://github.com/Teodp006/Teodp006/blob/main/IMAGENBANER.png)
 
 <!--
 **Teodp006/Teodp006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
