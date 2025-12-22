@@ -1,17 +1,15 @@
-## Hola, me llamo Teo y me gusta programar 👋 
-![https://github.com/Teodp006](https://github.com/Teodp006/Teodp006/blob/main/IMAGENBANER.png)
+## Hola, me llamo Teo y me gusta programar
 
-<!--
-**Teodp006/Teodp006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como deseo propio de mostrar mi pasión por la Ingeniería Informática en este perfil encontrarás muchos tips, recursos, resoluciones de ejercicios... ¡Incluso prácticas resueltas y explicadas por mi!😉
 
-Here are some ideas to get you started:
+#### 👉A tener en cuenta
+Recuerda que esta información es para que te inspires, aprendas y el proceso te sea más llevadero, si copias el problema será tuyo, yo ya tengo las notas puestas. Respeta siempre las marcas con (c) que veas, indica que eso no lo puedes copiar literalmente, o podría haber concecuencias. Igualmente en este repositorio también podrás encontrar material **libre**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Por donde empezar
+
+Yet in work... 🛠
+
+# Proyectos personales
+
+Yet in work... 🛠
