@@ -8,8 +8,16 @@ Recuerda que esta información es para que te inspires, aprendas y el proceso te
 
 # Por donde empezar
 
-Yet in work... 🛠
+## Cosas de la Universidad
 
+
+## Guías/Cosas útiles para informáticos curiosos
+<ul>
+  <li>
+    Si quieres poner emojis en Ubuntu y eres de los fanáticos de <code>Windows + .</code>.
+  </li>
+</ul>
+    
 # Proyectos personales
 
 Yet in work... 🛠
