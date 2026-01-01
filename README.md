@@ -14,7 +14,7 @@ Recuerda que esta información es para que te inspires, aprendas y el proceso te
 ## Guías/Cosas útiles para informáticos curiosos
 <ul>
   <li>
-    Si quieres poner emojis en Ubuntu y eres de los fanáticos de <code>Windows + .</code>.
+    Si quieres poner emojis en Ubuntu y eres de los fanáticos de <code>Windows + .</code>➡️ <a href="https://github.com/Teodp006/CosasUtilesInfo/tree/main/EmojisUbuntu">¿Cómo hacerlo?</a>
   </li>
 </ul>
     
