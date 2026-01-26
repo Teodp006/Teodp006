@@ -9,7 +9,15 @@ Recuerda que esta información es para que te inspires, aprendas y el proceso te
 # Por donde empezar
 
 ## Cosas de la Universidad
-
+<ul>
+  <li> GREI de la USC</li>
+  <p>
+    <a href="https://github.com/Teodp006/Universidad/tree/main"> Como sobrellevar ingeniería informática sin que se te caiga el pelo. </a> 👨‍🦲✅
+  </p>
+</ul>
+<ul>
+  <li> Futuras formaciones... ⁉️</li>
+</ul>
 
 ## Guías/Cosas útiles para informáticos curiosos
 <ul>
